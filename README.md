@@ -1,7 +1,7 @@
 
 # The Complete 2020 Web Development Bootcamp
 
-Whats I will learn:
+What I will learn:
 
 	- Be able to build ANY website you want.
 	
